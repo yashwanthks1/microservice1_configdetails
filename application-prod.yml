@@ -1,6 +1,6 @@
 Spring:
   application:
-      name: production
+     name: production
 eureka:
   client:
     register-with-eureka: true
