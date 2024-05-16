@@ -1,0 +1,1 @@
+# microservice1_configdetails
